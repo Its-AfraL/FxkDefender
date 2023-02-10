@@ -1,5 +1,7 @@
 :: This opensource script will permanently disable Windows Defender to optimise your Windows
+:: This script requires admin rights
 :: Don't forget to star the github rep
+
 @echo off
 
 cls
